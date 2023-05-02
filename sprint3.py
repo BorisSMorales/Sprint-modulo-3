@@ -34,3 +34,4 @@ for cuenta in cuentas:
     print(f"Usuario: {cuenta['usuario']}, Contraseña: {cuenta['contraseña']}, Teléfono: {cuenta['teléfono']}")
 
 #José Ramos
+#Boris Morales
