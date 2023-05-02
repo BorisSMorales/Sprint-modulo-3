@@ -35,3 +35,4 @@ for cuenta in cuentas:
 
 #José Ramos
 #Boris Morales
+#Javier Soto
